@@ -1,0 +1,10 @@
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EmployeeManagement.Data.dll.config
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EmployeeManagement.Data.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EmployeeManagement.Data.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EntityFramework.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EntityFramework.xml
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\obj\Debug\EmployeeManagement.Data.csprojResolveAssemblyReference.cache
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\obj\Debug\EmployeeManagement.Data.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Data\obj\Debug\EmployeeManagement.Data.pdb

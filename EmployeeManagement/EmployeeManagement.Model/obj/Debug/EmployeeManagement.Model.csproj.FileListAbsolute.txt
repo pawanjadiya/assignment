@@ -1,0 +1,5 @@
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Model\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Model\obj\Debug\EmployeeManagement.Model.csprojResolveAssemblyReference.cache

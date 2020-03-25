@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EmployeeManagement.Model.Models.UsersModels>
+
+@{
+    ViewBag.Title = "Index";
+}
+<link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+<h2>Index</h2>
+
+<p>
+    <a id="AddEmployee" class="btn btn-success" href="~/Users/AddUsers">Add Employee</a>
+</p>
+<div class="text-right">
+    <a id="logout" class="btn btn-danger" href="~/Login/Index">Logout</a>
+</div>
+
+@Html.Hidden("RoleId",(object)@ViewBag.RoleId)
+<div id="employee">
+
+    Please wait.....!!!
+</div>
+@section Scripts
+{
+
+    <script src="~/Scripts/Users.js"></script>
+}

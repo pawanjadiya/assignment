@@ -1,0 +1,14 @@
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Business.dll.config
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Business.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Business.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Data.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Model.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EntityFramework.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Data.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EmployeeManagement.Model.pdb
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EntityFramework.xml
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\obj\Debug\EmployeeManagement.Business.csprojResolveAssemblyReference.cache
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\obj\Debug\EmployeeManagement.Business.dll
+C:\Users\rishavRJ\documents\visual studio 2012\Projects\EmployeeManagement\EmployeeManagement.Business\obj\Debug\EmployeeManagement.Business.pdb
